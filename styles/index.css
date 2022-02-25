@@ -1,0 +1,444 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.upper-container{
+    width: 50%;
+    height: 10%;
+    margin: 50px auto;
+    position: relative;
+}
+
+.upper-conatiner1{
+    width: 35%;
+    height: 100%;
+    padding-top: 20px;
+
+}
+
+#tasks{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+#lists{
+    font-size: 2.5rem;
+    margin-left: 10px;
+    opacity: 0.5;
+}
+
+.upper-container2{
+    width: 30%;
+    height: 100%;
+    padding-top: 10px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+}
+
+#addlist{
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+    opacity: 0.5;
+    padding-top: 10px;
+
+}
+
+.card1{
+    float: left;
+    margin-top: 10px;
+    border: 1.5px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+    margin: auto;
+    margin-left: 10%;
+    
+
+}
+
+.div1{
+    position:absolute;
+    top: 15px;
+    right:0px;
+    font-size:18px;
+    width: 85%; 
+    text-align: left;
+    height: 15%;
+    color: darkred;
+    border-bottom: 1px solid black;
+}
+
+.div2{
+    width: 90%;
+    height: 10%;
+    font-size: 15px ;
+    color: deepskyblue;
+    text-align: right;
+    position: absolute;
+    top: 35%;
+    font-weight: bold;
+    text-decoration: line-through;
+
+
+}
+
+.div3{
+    width: 90%;
+    height: 10%;
+    top: 62% ;
+    text-align: left;
+    font-size: 16px;
+    position: absolute;
+
+}
+
+#check{
+    width: 12px;
+    height: 12px; 
+    margin-left: 10px;
+
+}
+
+.card2{
+
+    float: left;
+    
+    margin-top: 10px;
+    border: 1.5px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+    margin: auto;
+    margin-left: 15%;
+    
+    
+
+
+
+
+}
+
+.div4{
+    position:absolute;
+    top: 15px;
+    right:0px;
+    font-size:18px;
+    width: 85%; 
+    text-align: left;
+    height: 15%;
+    color: darkred;
+    border-bottom: 1px solid black;
+}
+
+.div5{
+    
+
+    width: 90%;
+    height: 10%;
+    font-size: 15px ;
+    color: deepskyblue;
+    text-align: right;
+    position: absolute;
+    top: 35%;
+    font-weight: bold;
+    text-decoration: line-through;
+
+
+}
+
+.div6{
+    
+    width: 90%;
+    height: 10%;
+    top: 62% ;
+    text-align: left;
+    font-size: 16px;
+    position: absolute;
+
+    
+    }
+
+#check{
+    width: 12px;
+    height: 12px; 
+    margin-left: 10px;
+
+
+
+    }
+
+
+.card3{
+    margin-left: 70%;
+    border: 1.5px solid green;
+    height: 45vh;
+    width: 15%;
+    position: absolute;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+.div7{
+    position:absolute;
+    top: 15px;
+    right:0px;
+    font-size:18px;
+    width: 85%; 
+    text-align: left;
+    height: 15%;
+    color: darkred;
+    border-bottom: 1px solid black;
+    }
+    
+.div8{
+    width: 90%;
+    height: 10%;
+    font-size: 15px ;
+    color: deepskyblue;
+    text-align: right;
+    position: absolute;
+    top: 35%;
+    font-weight: bold;
+    text-decoration: line-through;
+    
+    
+    }
+    
+.div9{
+    width: 90%;
+    height: 10%;
+    top: 62% ;
+    text-align: left;
+    font-size: 16px;
+    position: absolute;
+    
+    }
+    
+#check{
+    width: 12px;
+    height: 12px; 
+    margin-left: 10px;
+    
+    }
+
+
+.upper-container10{
+    width: 35%;
+    height: 100%;
+    margin-left: 40%;
+
+}
+
+#trip-to-paris{
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align: center;
+    position: relative;
+    
+
+}
+
+
+.upper-container11{
+    width: 35%;
+    height: 100%;
+    margin-left: 40%;
+
+}
+
+#circle{
+
+    position: relative;
+    width: 80%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+    opacity: 0.5;
+    padding-top: 30px;
+    text-align: center;
+    float: left;
+    margin-left:5% ;
+
+
+}
+
+#back{
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+    opacity: o.5;
+    margin:auto;
+    margin-left:47%;
+
+    
+
+}
+
+
+.card4{
+
+    
+    float: left;
+    
+    border: 1.5px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 5%;
+    margin-left: 45%;
+    padding-top: 50px;
+    
+    
+
+
+
+
+}
+
+.div10{
+    position:absolute;
+    top: 15px;
+    right:0px;
+    font-size:18px;
+    width: 85%; 
+    text-align: left;
+    height: 15%;
+    color: darkred;
+    border-bottom: 1px solid black;
+}
+
+.div11{
+    
+
+    width: 90%;
+    height: 10%;
+    font-size: 15px ;
+    color: deepskyblue;
+    text-align: right;
+    position: absolute;
+    top: 35%;
+    font-weight: bold;
+    text-decoration: line-through;
+
+
+}
+
+.div12{
+    
+    width: 90%;
+    height: 10%;
+    top: 62% ;
+    text-align: left;
+    font-size: 16px;
+    position: absolute;
+
+    
+    }
+
+#check{
+    width: 12px;
+    height: 12px; 
+    margin-left: 10px;
+
+
+
+    }
+
+
+.notshow{
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
+
+
+
+}
+
+.pop-up{
+    position: absolute;
+    left: 37%;
+    top: 40%;
+    height: 35vh;
+    width: 30%;
+    border: 1.5px solid red;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px grey;
+    background-color: white;
+
+
+
+}
+
+.add-new-list{
+    opacity: 0.7;
+    font-size: 17px;
+    padding: 20px;
+}
+
+.pop-upbar{
+    margin-top: 20px;
+    border-radius: 4px;
+    width: 85%;
+    height: 25%;
+    border: 1.5px solid red;
+    box-shadow: 1px 3px 10px grey;
+}
+
+.pop-up-button{
+    width: 25%;
+    height: 20%;
+    margin-top: 18px;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    left: 125px;
+}
+
+    .p{
+        color: blueviolet;
+        font-size: 300%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
